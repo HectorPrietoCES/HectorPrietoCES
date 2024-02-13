@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Héctor!!</h1>
-<h3 align="center">Estudiante de DAM de primer año</h3>
+<h3 align="center">Estudiante de DAM de segundo año</h3>
 
 - 🌱 Actualmente estudiando **Desarrollo de aplicaciones multiplataforma**
 
